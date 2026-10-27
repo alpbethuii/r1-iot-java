@@ -229,3 +229,8 @@
 }
 
 ```
+
+
+## R1 无线音箱实验记录
+
+[aptX LL、CoreAudio UDP 与 AirPlay 2：实验成果、纠错和退役复盘（2026-10-27）](docs/experiments/r1-macos-speaker-retrospective-20261027.md)。自研低延迟电脑音箱路线已退役，保留普通蓝牙和 AirPlay 2；记录不包含私有 APK、现场音视频或设备凭据。
